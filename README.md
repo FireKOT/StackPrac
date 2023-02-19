@@ -3,33 +3,56 @@ Stack on array:
 Test One:
 
 Attempts:
+
   1:  31 ms
+  
   2:  33 ms
+  
   3:  33 ms
+  
   4:  31 ms
+  
   5:  32 ms
+  
   6:  32 ms
+  
   7:  31 ms
+  
   8:  31 ms
+  
   9:  31 ms
+  
  10:  31 ms
+ 
 
 Avearage time: 31.6 ms
+
 
 
 Test Two:
 
 Attempts:
+
   1:  66 ms
+  
   2:  65 ms
+  
   3:  65 ms
+  
   4:  65 ms
+  
   5:  66 ms
+  
   6:  65 ms
+  
   7:  65 ms
+  
   8:  65 ms
+  
   9:  66 ms
+  
  10:  65 ms
+ 
 
 Avearage time: 65.3 ms
 
@@ -37,9 +60,13 @@ Avearage time: 65.3 ms
 Test Three:
 
 Attempts:
+
   1: 280 ms
+  
   2: 281 ms
+  
   3: 284 ms
+  
   4: 279 ms
   5: 284 ms
   6: 288 ms
